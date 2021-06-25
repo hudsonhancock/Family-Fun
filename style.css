@@ -35,6 +35,11 @@ h3
     margin: 0;
 }
 
+h4{
+    font-size:100%;
+    text-align: left;
+}
+
 a{
     text-decoration: none;
 }
@@ -42,7 +47,7 @@ a{
 #result{
     border: 1px solid black;
     padding: 40px 40px;
-    margin: 25px 0px;
+    margin: 25px 25px;
     color: blue;
 }
 
