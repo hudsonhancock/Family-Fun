@@ -1,0 +1,70 @@
+body {
+    text-align: ;
+    font-size: 16px;
+}
+div {
+    display: inline-block;
+}
+button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-family: sans-serif;
+    margin: 0px;
+}
+
+h1, h2, h3, h4, p, a{
+    font-family: sans-serif;
+    margin: 0;
+}
+
+h1
+{
+    font-size:200%;
+    margin: 0;
+}
+
+h2
+{
+    font-size:175%;
+    margin: 20px 0 0 0;
+}
+
+h3
+{
+    font-size:125%;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+#result{
+    border: 1px solid black;
+    padding: 40px 40px;
+    margin: 25px 0px;
+    color: blue;
+}
+
+header{
+    background-color: purple;
+    color: white;
+    margin: 0px;
+    padding: 20px;
+    text-align: center ;
+}
+
+.generator{
+    margin: 25px;
+    text-align: center;
+}
+
+
+
+@media (max-width: 454px) {
+    h1 {
+        font-size: 1.3rem;
+    }
+}
+
+
